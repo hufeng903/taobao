@@ -1,5 +1,8 @@
 <?php
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6619085cb1975974400dc6618cac9c1c72cf2b72
 
 set_time_limit(0);
 include "TopSdk.php";
